@@ -6,11 +6,11 @@ This project is a fully functional clone of Minecraft, enhanced with stellar blo
 ## **Screenshots**
 
 <p float="left">
-  <img src="./public/images/WhatsApp Image 2024-06-16 at 23.30.22.jpg" width="48%" />
   <img src="./public/images/WhatsApp Image 2024-06-16 at 23.30.41.jpeg" width="48%" />
+  <img src="./public/images/WhatsApp Image 2024-06-16 at 23.30.57.jpeg" width="48%" />
 </p>
 <p float="left">
-  <img src="./public/images/WhatsApp Image 2024-06-16 at 23.30.57.jpeg" width="48%" />
+  <img src="./public/images/WhatsApp Image 2024-06-16 at 23.30.22.jpg" width="48%" />
   <img src="./public/images/WhatsApp Image 2024-06-16 at 23.31.49.jpeg" width="48%" />
 </p>
 
